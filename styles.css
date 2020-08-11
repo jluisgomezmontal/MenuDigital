@@ -1,0 +1,17 @@
+.producto,
+.precio{
+    background-color: #F2F2F2;
+    padding: 0px 35PX;
+    text-align: left;
+}
+#leyenda{
+    text-align: center;
+}
+
+}
+.footer-datos{
+    background: #F2F2F2;
+    color: black;
+    font-size: 12px;
+    padding: 35px 0;
+}
