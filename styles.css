@@ -3,14 +3,29 @@
     background-color: #F2F2F2;
     padding: 0px 35PX;
     text-align: left;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
 }
 #leyenda{
     text-align: center;
 }
-a{
-    color: white !important;
+#ingredientes{
+    color: gray;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
 }
-
+a{
+    color: white;
+}
+h6{
+    text-decoration-color: gray;
+    text-align: left;
+    text-size-adjust: 10px;
+}
 }
 .footer-datos{
     background: #F2F2F2;
