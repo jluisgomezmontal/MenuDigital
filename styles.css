@@ -20,7 +20,7 @@
 #ingredientes{
     color: gray;
     font-weight: lighter;
-    padding-left: 50px;
+    text-align: left;
 }
 a{
     color: white;
