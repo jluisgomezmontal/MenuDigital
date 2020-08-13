@@ -1,16 +1,18 @@
 .precio{
     font-weight: bolder;
+    
 }
 .producto,
 .precio{
     background-color: #F2F2F2;
-    padding: 0px 35PX;
+    padding: 0px 25PX;
     text-align: left;
     margin-top: 0px;
     margin-bottom: 0px;
     padding-top: 0px;
     padding-bottom: 0px;
     font-weight: bolder;
+    text-align: left;
 }
 #leyenda{
     text-align: center;
